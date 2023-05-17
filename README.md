@@ -4,7 +4,15 @@ Early detection of heart diseases is critical in the treatment and management of
 Dataset used -- https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 This system is implemented using the following modules. 
+
 1.) Collection of Dataset 
+
 2.) Data Pre-Processing 
+
 3.) Balancing of Data 
-5.) Disease Prediction 
+
+4.) Model Building
+
+5.) Disease Prediction using Trained Model.
+
+
