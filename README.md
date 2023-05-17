@@ -36,9 +36,13 @@ RANDOM FOREST ALGORITHM:
 Random Forest is a supervised learning algorithm. It is an extension of machine learning classifiers which include the bagging to improve the performance of Decision Tree. It combines tree predictors, and trees are dependent on a random vector which is independently sampled.
 
 It works in four steps: 
+
 ● Select random samples from a given dataset. 
+
 ● Construct a Decision Tree for each sample and get a prediction result from each Decision Tree. 
+
 ● Perform a vote for each predicted result. 
+
 ● Select the prediction result with the most votes as the final prediction
 
 
